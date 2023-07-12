@@ -1,1 +1,63 @@
-/* CSS stillerinizi buraya girin */
+.conteiner {
+  display: flex;
+}
+.circles i {
+  margin-top: 40%;
+}
+.textbaslık {
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+}
+.navbar nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+.navbar nav a {
+  text-decoration: none;
+  background-color: yellow;
+  padding: 1rem;
+  border-radius: 10%;
+}
+p {
+  padding: 0% 40% 0% 40%;
+}
+.image {
+  display: flex;
+}
+.image img {
+  width: 100%;
+  height: 5%;
+  object-fit: cover;
+}
+
+.conteiner2 {
+  display: flex;
+  flex-wrap: wrap;
+  float: left;
+}
+.conteiner2 img {
+  float: left;
+  width: 25%;
+}
+.paragraf2 {
+  display: flex;
+  margin-top: 0%;
+  font-size: 0.5rem;
+
+  float: right;
+}
+.footer {
+  display: flex;
+  text-align: center;
+}
+.footer a {
+  background-color: aqua;
+  text-decoration: none;
+  padding: 3rem;
+}
+.icon a {
+  display: flex;
+  justify-content: center;
+}
