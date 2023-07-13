@@ -59,6 +59,7 @@ h1 {
   display: inline-block;
   width: 20%;
   align-items: flex-end;
+  margin-left: 3rem;
 }
 .footer {
   display: flex;
